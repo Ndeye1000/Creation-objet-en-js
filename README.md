@@ -6,16 +6,31 @@ Ce projet montre comment créer et manipuler un objet simple en JavaScript repr�
 
 - [voiture.js](voiture.js) : Script principal qui crée un objet voiture, lui ajoute des propriétés, et affiche ses informations dans la console.
 
+## Prérequis
+
+- [Node.js](https://nodejs.org/) installé sur votre machine.
+
+## Installation
+
+Clonez le dépôt ou téléchargez les fichiers dans un dossier local.
+
+```sh
+git clone <url-du-repo>
+```
+```sh
+cd Creation-objet-en-js
+```
+
 ## Utilisation
 
-1. Ouvrez le fichier [voiture.js](voiture.js).
+1. Ouvrez le fichier `voiture.js`.
 2. Exécutez le script avec Node.js :
 
    ```sh
    node voiture.js
    ```
 
-3. Vous verrez un message affichant les détails de la voiture et son prix.
+3. Un message affichera les détails de la voiture et son prix dans la console.
 
 ## Exemple de sortie
 
@@ -28,3 +43,7 @@ Vous avez achete une Toyota Corolla de l'annee 2020. Elle vous a coute 200000 FC
 ## Auteur
 
 - Ndeye S. Mergane
+
+## Licence
+
+Ce projet est proposé à des fins d'apprentissage. Vous pouvez le modifier et le réutiliser librement.
