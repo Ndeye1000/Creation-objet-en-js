@@ -1,18 +1,18 @@
-# Création d'un objet Voiture en JavaScript
+# Création d'un objet voiture en JavaScript
 
 Ce projet montre comment créer et manipuler un objet simple en JavaScript représentant une voiture.
 
 ## Fichiers
 
-- [Voiture.js](Voiture.js) : Script principal qui crée un objet voiture, lui ajoute des propriétés, et affiche ses informations dans la console.
+- [voiture.js](voiture.js) : Script principal qui crée un objet voiture, lui ajoute des propriétés, et affiche ses informations dans la console.
 
 ## Utilisation
 
-1. Ouvrez le fichier [Voiture.js](Voiture.js).
+1. Ouvrez le fichier [voiture.js](voiture.js).
 2. Exécutez le script avec Node.js :
 
    ```sh
-   node Voiture.js
+   node voiture.js
    ```
 
 3. Vous verrez un message affichant les détails de la voiture et son prix.
