@@ -37,7 +37,7 @@ cd Creation-objet-en-js
 ```
 Bienvenue dans le monde des objets en JavaScript!
 
-Vous avez achete une Toyota Corolla de l'annee 2020. Elle vous a coute 200000 FCFA.
+Vous avez acheté une Toyota Corolla de l'annee 2020. Elle vous a couté 200000 FCFA.
 ```
 
 ## Auteur
