@@ -58,16 +58,16 @@ Elle vous a coûté 200000 FCFA.
 - Manipulation des propriétés d'objets
 - Affichage des données d'un objet
 
-## 👩‍💻 Auteur
+## Auteur
 
 Ndeye S. Mergane
 
-## 📄 Licence
+## Licence
 
 Ce projet est sous licence libre pour l'apprentissage.
 Vous pouvez l'utiliser, le modifier et le distribuer librement.
 
-## 🤝 Contribution
+## Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à :
 - Signaler des bugs
